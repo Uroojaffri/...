@@ -1,0 +1,32 @@
+body{
+    background-color: grey;
+    justify-content: center;
+    display: flex;
+    margin: 0px;
+    height: 100vh;
+    font-family: Poppins;
+    font-weight: 200;
+}
+button{
+    background-color: white;
+    border: none;
+}
+.navbutton{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+/* .navbutton:hover{
+    background-color: grey;
+    transition: 0.5s;
+} */
+/* .one{
+    background-color: white;
+} */
+ nav{
+    list-style-type: none;
+ }
+
+
